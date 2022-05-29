@@ -14,4 +14,8 @@ The idea is to give away most of it as I can't put all those plants on the balco
 
 Some ideas do not work as I would like them to, but this helps me expect less in my daily-live, too. Are plants teaching me additional humbleness?
 
+I try to learn much more on the different plants that surround us and I feel that I somehow respect the nature already much more. So many things to learn, wild herbs that might get used as spice. On top of that, I somehow want to throw seedbombs in places where clearly plants are not wanted. Just thinking about it.
+
+I did buy seed confetti for the next big party on the playground. That also is a first time. Regional plants in the middle of the playground just because children want to have fun, sounds much better than leaving plastic in the nature or having to collect all the fun later on again.
+
 {% include links.html %}
