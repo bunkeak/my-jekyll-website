@@ -8,7 +8,7 @@ tags: [news]
 
 ## More Plant Projects in May
 
-This is the first post in this whole new project of mine to do blog posts. This month, the challenge was to do more plant projects. So far, I continued with wild strawberry, thyme, lemon balm and onion.
+This is the first post in this whole new project of mine to do blog posts. This month, the challenge was to do more plant projects. So far, I continued with wild strawberry, thyme, lemon balm and onion inside the flat and on the balcony.
 
 {% include image.html file="IMG_20220529_072815.jpg" alt="Plants growing inside the flat" caption="Plants growing inside the flat." %}
 
@@ -23,9 +23,5 @@ And then I am so pleased when I see gardens or public space where people make so
 {% include image.html file="IMG_20220521_142424.jpg" alt="Area designated for wild flowers to grow" caption="Close to a lake, wild flowers will not get cut." %}
 
 I did buy seed confetti for the next big party on the playground. That also is a first time. Regional plants in the middle of the playground just because children want to have fun, sounds much better than leaving plastic in the nature or having to collect all the fun later on again.
-
-We do spend more time outside and the best things are just being in nature, when there is effort made that it is entertaining to spend time there. That is an example of a really nice playground in the area, close to a small creek.
-
-{% include image.html file="IMG_20220514_191741.jpg" alt="Playground with water with ducks nearby." caption="Playground example, nature at its best." %}
 
 {% include links.html %}
