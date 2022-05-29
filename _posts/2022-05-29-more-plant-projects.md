@@ -8,7 +8,7 @@ tags: [news]
 
 ## More Plant Projects in May
 
-This is the first post in this whole new project of mine to do blog posts. This month, the challenge was to do more plant projects. So far, I continued with wild strawberry, thyme, lemon balm and onion inside the flat and on the balcony.
+This is the first post in this whole new project of mine to do blog posts. This month, the challenge was to do more plant projects. I continued with wild strawberry, thyme, lemon balm and onion from a Primoza calendar inside the flat and on the balcony.
 
 {% include image.html file="IMG_20220529_072815.jpg" alt="Plants growing inside the flat" caption="Plants growing inside the flat." %}
 
@@ -23,5 +23,11 @@ And then I am so pleased when I see gardens or public space where people make so
 {% include image.html file="IMG_20220521_142424.jpg" alt="Area designated for wild flowers to grow" caption="Close to a lake, wild flowers will not get cut." %}
 
 I did buy seed confetti for the next big party on the playground. That also is a first time. Regional plants in the middle of the playground just because children want to have fun, sounds much better than leaving plastic in the nature or having to collect all the fun later on again.
+
+In a similar objective, we did for the third time I think plant seeds using Pandacraft, a french crafting set. Really nice result, we added two additional small pots, as there are much more seeds and soil available. Afterwards we added water to the glasses, that makes it easy to actually get something as a result, as we do not need to think about it everyday.
+
+{% include image.html file="IMG_20220529_111017.jpg" alt="Seeds for Radish cute looking" caption="Planting seeds with kid, messy but fun." %}
+
+Altogether, I feel more connected, more grounded and balanced with this experience. I like working with soil, taking care of little seedlings and see what has become of it. I guess we can need a little bit more grounding these days. Nice side effect, my balcony is getting much more attractive recently.
 
 {% include links.html %}
