@@ -12,4 +12,8 @@ We do spend more time outside and the best things are just being in nature, when
 
 {% include image.html file="IMG_20220514_191741.jpg" alt="Playground with water with ducks nearby." caption="Playground example, nature at its best." %}
 
+birthday screenshot
+
+some event elsewhere
+
 {% include links.html %}
