@@ -18,9 +18,8 @@ entries:
     - title: More Plant Projects in May
       url: /more-plant-projects.html
       output: web, pdf
-
-#    - title: Spend more Time Outside in June
-#      url: /more-time-outside.html
-#      output: web, pdf
+    - title: Spend more Time Outside in June
+      url: /more-time-outside.html
+      output: web, pdf
 
 # Copyright 2021 Google LLC

@@ -6,8 +6,6 @@ sidebar: mydoc_sidebar
 tags: [news]
 ---
 
-## More Plant Projects in May
-
 This is the first post in this whole new project of mine to do blog posts. This month, the challenge was to do more plant projects. I continued with wild strawberry, thyme, lemon balm and onion from a Primoza calendar inside the flat and on the balcony.
 
 {% include image.html file="IMG_20220529_072815.jpg" alt="Plants growing inside the flat" caption="Plants growing inside the flat." %}
