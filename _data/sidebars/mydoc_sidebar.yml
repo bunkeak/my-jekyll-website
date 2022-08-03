@@ -21,5 +21,8 @@ entries:
     - title: Spend more Time Outside in June
       url: /more-time-outside.html
       output: web, pdf
+    - title: More Art Projects in July
+      url: /more-art-projects.html
+      output: web, pdf
 
 # Copyright 2021 Google LLC
