@@ -24,5 +24,8 @@ entries:
     - title: More Art Projects in July
       url: /more-art-projects.html
       output: web, pdf
+    - title: More Mindfulness in August
+      url: /more-mindfulness.html
+      output: web, pdf
 
 # Copyright 2021 Google LLC
