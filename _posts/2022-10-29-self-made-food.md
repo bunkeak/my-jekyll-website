@@ -1,5 +1,5 @@
 ---
-title:  "Spend more Time Outside in June"
+title:  "More Self-made Food in October"
 categories: jekyll update
 permalink: more-time-outside.html
 sidebar: mydoc_sidebar
