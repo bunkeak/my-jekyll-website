@@ -1,19 +1,23 @@
 ---
 title:  "More Exercising in September"
 categories: jekyll update
-permalink: more-time-outside.html
+permalink: more-exercising.html
 sidebar: mydoc_sidebar
 tags: [news]
 ---
 
-## Spend more Time Outside in June
+## More Exercising in September
 
-We do spend more time outside and the best things are just being in nature, when there is effort made that it is entertaining to spend time there. That is an example of a really nice playground in the area, close to a small creek.
+It turns out this one was tricky. I still cannot do much intensive training, need to focus on walking a lot. I could do that more frequently since school started and we train the way to school, to Hort and sometimes back home walking with the little one.
 
-{% include image.html file="IMG_20220514_191741.jpg" alt="Playground with water with ducks nearby." caption="Playground example, nature at its best." %}
+Second thing I did was bringing e-bikes to service, that was quite some intense training. The weather in September is not always ideal for exercising outside. Just in time before the end of the month, I started my guided training in Tai Chi again.
 
-birthday screenshot
+{% include image.html file="IMG_20220905_135845.jpg" alt="" caption="" %}
 
-some event elsewhere
+bicycle
+
+walking
+
+Tai Chi essentially
 
 {% include links.html %}
