@@ -27,5 +27,8 @@ entries:
     - title: More Mindfulness in August
       url: /more-mindfulness.html
       output: web, pdf
+    - title: More Exercising in September
+      utl: /more-exercising.html
+      output: web, pdf
 
 # Copyright 2021 Google LLC

@@ -8,16 +8,14 @@ tags: [news]
 
 ## More Exercising in September
 
-It turns out this one was tricky. I still cannot do much intensive training, need to focus on walking a lot. I could do that more frequently since school started and we train the way to school, to Hort and sometimes back home walking with the little one.
+Where to start? We have a long way to convince everyone at home that frequent exercising is useful. We started the month looking at Basketball EM and playing at the same time. That was fun.
 
-Second thing I did was bringing e-bikes to service, that was quite some intense training. The weather in September is not always ideal for exercising outside. Just in time before the end of the month, I started my guided training in Tai Chi again.
+{% include image.html file="IMG_20220904_160549.jpg" alt="Basketballgame in the background, playing with balloons." caption="Playing while others play." %}
 
-{% include image.html file="IMG_20220905_135845.jpg" alt="" caption="" %}
+We continued and used the nice weather doing bicycle rounds in the area. To playgrounds (more exercising), small rivers and also to service for e-bike during not so nice weather.
 
-bicycle
+{% include image.html file="IMG_20220905_135223.jpg" alt="Tour with bicycles near a river." caption="On tour by bike." %}
 
-walking
+Since the mid of the month I get to walk a lot. We do not want to be parents driving the kid to school in a big SUV. So we mainly walk. Weather does not bother us that much until now. We appreciate the change of the season and hopefully get fit someday. Until then, I do get a lot of fresh air, I am not so often sick and I am sleeping better. For a start, this is not bad.
 
-Tai Chi essentially
-
-{% include links.html %}
+End of the month, my VHS course of Tai Chi restarted. I missed my group of people and really appreciate the restart. Next goal would be to keep the frequency and continue exercising.
