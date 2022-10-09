@@ -1,19 +1,27 @@
 ---
 title:  "More Self-made Food in October"
 categories: jekyll update
-permalink: more-time-outside.html
+permalink: more-self-made-food.html
 sidebar: mydoc_sidebar
 tags: [news]
 ---
 
-## Spend more Time Outside in June
+## More Self-made Food in October
 
-We do spend more time outside and the best things are just being in nature, when there is effort made that it is entertaining to spend time there. That is an example of a really nice playground in the area, close to a small creek.
+It is that time of the year when the leafs are falling and we do spend more time inside. Autumn started, orange seems to be everywhere and I am suddenly happier.
 
-{% include image.html file="IMG_20220514_191741.jpg" alt="Playground with water with ducks nearby." caption="Playground example, nature at its best." %}
+Grillen
 
-birthday screenshot
+Waffeln
 
-some event elsewhere
+Curry
+
+{% include image.html file="PXL_20220917_085012970.jpg" alt="" caption="" %}
+
+Emma does bread quite frequently
+
+{% include image.html file="PXL_20221001_153415972.jpg" alt="" caption="" %}
+
+On my side, I started with pumpkinsoup.
 
 {% include links.html %}
