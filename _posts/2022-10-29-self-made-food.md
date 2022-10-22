@@ -8,13 +8,14 @@ tags: [news]
 
 ## More Self-made Food in October
 
-It is that time of the year when the leafs are falling and we do spend more time inside. Autumn started, orange seems to be everywhere and I am suddenly happier.
-
+This challenge we did together as a family. Food is important to all of us, each one approached the challenge from a different angle.
 Grillen
 
 Waffeln
 
 Curry
+
+Grill von Marc
 
 {% include image.html file="PXL_20220917_085012970.jpg" alt="" caption="" %}
 
@@ -23,5 +24,11 @@ Emma does bread quite frequently
 {% include image.html file="PXL_20221001_153415972.jpg" alt="" caption="" %}
 
 On my side, I started with pumpkinsoup.
+
+cake, chocolate and onion
+
+Hookaido, butternut
+
+Stollen
 
 {% include links.html %}
