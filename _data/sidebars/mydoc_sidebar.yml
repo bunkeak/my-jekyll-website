@@ -28,7 +28,10 @@ entries:
       url: /more-mindfulness.html
       output: web, pdf
     - title: More Exercising in September
-      utl: /more-exercising.html
+      url: /more-exercising.html
+      output: web, pdf
+    - title: More Self-made Food in October
+      url: /more-self-made-food.html
       output: web, pdf
 
 # Copyright 2021 Google LLC
