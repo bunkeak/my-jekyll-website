@@ -33,5 +33,8 @@ entries:
     - title: More Self-made Food in October
       url: /more-self-made-food.html
       output: web, pdf
+    - title: More of Everything in November
+      url: /more-of-everything.html
+      output: web, pdf    
 
 # Copyright 2021 Google LLC
