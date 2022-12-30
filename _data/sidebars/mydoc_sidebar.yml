@@ -35,6 +35,9 @@ entries:
       output: web, pdf
     - title: More of Everything in November
       url: /more-of-everything.html
-      output: web, pdf    
+      output: web, pdf
+    - title: Less is more in December
+      url: /less-is-more.html
+      output: web, pdf        
 
 # Copyright 2021 Google LLC
