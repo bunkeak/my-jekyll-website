@@ -6,14 +6,13 @@ entries:
 #  version: 1.0
   folders:
 
-  - title: Overview
+  - title: Get started
+    url: /index.html
+    output: web, pdf
+    type: homepage
+  - title: 2022
     output: web, pdf
     folderitems:
-
-    - title: Get started
-      url: /index.html
-      output: web, pdf
-      type: homepage
 
     - title: More Plant Projects in May
       url: /more-plant-projects.html
@@ -38,6 +37,13 @@ entries:
       output: web, pdf
     - title: Less is more in December
       url: /less-is-more.html
-      output: web, pdf        
+      output: web, pdf
 
+  - title: 2023
+    output: web, pdf
+    folderitems:
+
+    - title: Advances into stoicism
+      url: /advances-into-stoicism.html
+      output: web, pdf
 # Copyright 2021 Google LLC

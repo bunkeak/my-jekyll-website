@@ -6,8 +6,6 @@ sidebar: mydoc_sidebar
 tags: [news]
 ---
 
-## Less is more in December
-
 I have to be honest with you, this might have been the trickiest goals of all, doing less in the season before Christmas. I really tried fitting most of it in November, not all can be done that much in advance. We had circumstances that made us slow down, the little one got ill beginning of December. That usually gives a break although this time we were doing homeschooling, for us a first. Mid of December we had really winter weather, enjoyed the ride to school and Hort with a slide for almost a week.
 
 {% include image.html file="December_1.jpg" alt="Trees with a lot of snow, sun about to set." caption="Less activities, enjoy the moment." %}

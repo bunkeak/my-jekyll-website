@@ -6,8 +6,6 @@ sidebar: mydoc_sidebar
 tags: [news]
 ---
 
-## More of Everything in November
-
 What sounded like a really good idea in the first place got us pretty exhausted at the end of the month. We do have wedding anniversary and my birthday in november so normally there is already quite a lot going on. This year, it was a significant birthday that somehow needs to be celebrated in a special way. To me personally it was Spa weekend for just the nuclear family.
 
 {% include image.html file="November_1.jpg" alt="Girl in a pool, someone outside and mountains in the background." caption="More travelling, relaxing and mountains." %}

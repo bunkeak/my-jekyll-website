@@ -6,8 +6,6 @@ sidebar: mydoc_sidebar
 tags: [news]
 ---
 
-## More Exercising in September
-
 Where to start? We have a long way to convince everyone at home that frequent exercising is useful. We started the month looking at Basketball EM and playing at the same time. That was fun.
 
 {% include image.html file="IMG_20220904_160549.jpg" alt="Basketballgame in the background, playing with balloons." caption="Playing while others play." %}

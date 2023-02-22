@@ -6,8 +6,6 @@ sidebar: mydoc_sidebar
 tags: [news]
 ---
 
-## More Self-made Food in October
-
 This challenge we did together as a family. Food is important to all of us, each one approached the challenge from a different angle. First, we got a new grill. That way, finally we did more things on the grill and used this one even yesterday. That is more just like waffles my better half doing that.
 
 {% include image.html file="PXL_20220917_085012970.jpg" alt="" caption="" %}
