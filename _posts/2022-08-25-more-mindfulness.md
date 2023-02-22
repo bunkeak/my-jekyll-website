@@ -21,5 +21,3 @@ Highlight of the vacations was the Ozeaneum at Stralsund. She could contemplate 
 {% include image.html file="PXL_20220811_115943683.jpg" alt="" caption="" %}
 
 Last but not least, I had my first talk in the company on mindfulness recently and got some pretty positive feedback from it. I was very nervous talking about my emotions and how I deal with them in front of colleagues. It appears it all went fine. Next week another talk, other language, same topic. To be continued.
-
-{% include links.html %}

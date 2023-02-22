@@ -19,5 +19,3 @@ I had this project in my head for a while. The basis already is important, it wa
 Later during the month I had the chance in trying out wax crayons and did opt for something very easy. I almost forgot how happy it made me to paint more frequently. This is something I should do more regularly if the result is an art piece and plus it makes me happy.
 
 {% include image.html file="IMG_20220724_084138.jpg" alt="Painting with wax crayons, mainly circles." caption="First trial with wax crayons, was a lot of fun." %}
-
-{% include links.html %}

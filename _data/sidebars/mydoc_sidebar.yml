@@ -6,10 +6,14 @@ entries:
 #  version: 1.0
   folders:
 
-  - title: Get started
-    url: /index.html
+  - title: Intro
     output: web, pdf
-    type: homepage
+    folderitems:
+
+    - title: Get started
+    - url: /index.html
+    - output: web,pdf
+
   - title: 2022
     output: web, pdf
     folderitems:

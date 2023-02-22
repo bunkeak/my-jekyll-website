@@ -22,11 +22,6 @@ Bringing this website entirely by myself up and running is my first goal achieve
 
 At the end of each month, I will post a new entry about the goal I set myself up to.
 
-<!--
-## Outlook for the New Year
+## Challenge for 2023
 
-In 2023 I want to focus on sustainability and advance in living more sustainable each month. I hope I will find 12 different strategies and keep the high motivation like 2022.
--->
-
-
-{% include links.html %}
+In 2023 I want to focus on staying calm and relaxed. I will approach that goal with various strategies.

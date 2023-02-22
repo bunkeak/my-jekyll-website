@@ -12,9 +12,9 @@ As usually, a new year starts a bit slower, then the speed increases and the eff
 
 {% include image.html file="2023_01.jpg" alt="Bicycle in the light, relaxing atmosphere." caption="First of January, taking our time." %}
 
-Here is our state at the very beginning of the year, we did not party, we did an early walk on the first of January. Quite and beautiful, it was mesmerizing.
+Here is our state at the very beginning of the year, we did not party, we did an early walk on the first of January. Quiet and beautiful, it was mesmerizing.
 
-Also, as every year, there are a lot of suggestions what you could improve, your weight, leave bad habits behind. It was refreshing not responding to all those well meant suggestions.
+Also, as every year, there are a lot of suggestions what you could improve, your weight, leave bad habits behind. It was refreshing not responding to all those well-meant suggestions.
 
 The idea is to start small, change indeed things, but generally not what is suggested around me. How to stay calm even if things do not work out as we want them to. Try to stay relaxed by increasing the challenges only step by step and try to adjust accordingly.
 
@@ -33,5 +33,3 @@ So if travelling by myself stresses me, I try to meet new people, meet my family
 So what if you go to a party, the music is not your style, it might be not very well suited with a kid and you try to enjoy it even though? This is what we did recently, listening to music I do not usually listen to. It was loud, it was dirty, I did not dress or drink appropriately. Had fun even though, people missed it very much and I wanted my kid to see it as we live in that city that is pretty famous for the wild parties around carnival for adults it appears.
 
 I understood much more what makes living here special. I try to respect people even if their ideas of having fun are quite different from mine.
-
-{% include links.html %}

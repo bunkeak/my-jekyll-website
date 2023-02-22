@@ -27,5 +27,3 @@ In a similar objective, we did for the third time I think plant seeds using Pand
 {% include image.html file="IMG_20220529_111017.jpg" alt="Seeds for Radish cute looking" caption="Planting seeds with kid, messy but fun." %}
 
 Altogether, I feel more connected, more grounded and balanced with this experience. I like working with soil, taking care of little seedlings and see what has become of it. I guess we can need a little bit more grounding these days. Nice side effect, my balcony is getting much more attractive recently.
-
-{% include links.html %}

@@ -19,5 +19,3 @@ Although the snow was gone at Christmas and we had rather mild temperatures, it 
 {% include image.html file="December_4.jpg" alt="Longer cold period made a natural decoration for Christmas." caption="Less human influence, still getting in Christmas spirit." %}
 
 Will announce in the beginning of the year what the focus will be next year, maybe not every month but rather when I have something to report, can be every three months, can be more often. Will see. Until then, let there be light!
-
-{% include links.html %}

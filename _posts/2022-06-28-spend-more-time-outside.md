@@ -19,5 +19,3 @@ The last impression is in another region of Germany. Close to a cave, the area w
 {% include image.html file="IMG_20220617_093329.jpg" alt="Trip in another region of Germany in the woods." caption="Again water, close to a cave in the woods." %}
 
 Today, the weather got a bit milder again which is very nice. I will try making it a habit to keep spending time outside by bike, on rollerskates and other sports equipment.
-
-{% include links.html %}
