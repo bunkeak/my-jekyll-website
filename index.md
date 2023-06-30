@@ -24,4 +24,4 @@ At the end of each month, I will post a new entry about the goal I set myself up
 
 ## Challenge for 2023
 
-In 2023 I want to focus on staying calm and relaxed. I will approach that goal with various strategies.
+In 2023 I want to focus on staying calm and relaxed. I will approach that goal with various strategies. The challenges will get more demanding, asking for additional skills in mindfulness, relaxation strategies. That may work well in some moments, less in others. Starting the change is the idea, I will not turn into a super relaxed person in just one year.

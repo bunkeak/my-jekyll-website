@@ -6,14 +6,6 @@ entries:
 #  version: 1.0
   folders:
 
-  - title: Intro
-    output: web, pdf
-    folderitems:
-
-    - title: Get started
-    - url: /index.html
-    - output: web,pdf
-
   - title: 2022
     output: web, pdf
     folderitems:
@@ -50,4 +42,10 @@ entries:
     - title: Advances into stoicism
       url: /advances-into-stoicism.html
       output: web, pdf
+    - title: New horizons
+      url: /new-horizons.html
+      output: web, pdf
+    - title: Patience is a virtue
+      url: /patience-is-a-virtue.html
+      output: web, pdf  
 # Copyright 2021 Google LLC

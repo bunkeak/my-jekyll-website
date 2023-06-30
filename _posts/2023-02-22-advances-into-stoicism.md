@@ -1,5 +1,5 @@
 ---
-title:  "Advances into Stoicism"
+title:  "Advances into stoicism"
 categories: jekyll update
 permalink: advances-into-stoicism.html
 sidebar: mydoc_sidebar
@@ -24,7 +24,7 @@ Then, first birthday party invitation came in and snow was back end of the month
 
 {% include image.html file="2023_01_02.jpg" alt="Eggplant stuffed with walnut and pomegranate in a heart." caption="Taking our time at home, preparing nice stuff." %}
 
-We started new recipes and did more stuff ourself, braking nuts, getting the kernels out of the pomegranate, it ended up as one of the most delicious versions of eggplant I have prepared and eaten. It is similar  to what we did last year, using the things that gave a good feeling and doing more of that. It helps enormously in times of stress if you counterbalance sufficiently.
+We started new recipes and did more stuff ourself, breaking nuts, getting the kernels out of the pomegranate, it ended up as one of the most delicious versions of eggplant I have prepared and eaten. It is similar  to what we did last year, using the things that gave a good feeling and doing more of that. It helps enormously in times of stress if you counterbalance sufficiently.
 
 So if travelling by myself stresses me, I try to meet new people, meet my family to counterbalance. If one activity cannot be done, I search for another one. As I might be relaxed, my surrounding needs to be, too.
 
