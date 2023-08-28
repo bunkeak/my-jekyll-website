@@ -47,5 +47,8 @@ entries:
       output: web, pdf
     - title: Patience is a virtue
       url: /patience-is-a-virtue.html
-      output: web, pdf  
+      output: web, pdf
+    - title: Travelling and adventures
+      url: /travelling-and-adventures.html
+      output: web, pdf    
 # Copyright 2021 Google LLC
