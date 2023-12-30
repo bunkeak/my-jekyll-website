@@ -50,5 +50,8 @@ entries:
       output: web, pdf
     - title: Travelling and adventures
       url: /travelling-and-adventures.html
-      output: web, pdf    
+      output: web, pdf
+    - title: Being thankful and in the moment
+      url: /being-thankful-and-in-the-moment.html
+      output: web, pdf
 # Copyright 2021 Google LLC
