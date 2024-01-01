@@ -54,4 +54,7 @@ entries:
     - title: Being thankful and in the moment
       url: /being-thankful-and-in-the-moment.html
       output: web, pdf
+    - title: Highlights and Recap of 2023
+      url: /highlights-and-recap-of-2023.html
+      output: web, pdf  
 # Copyright 2021 Google LLC
