@@ -14,10 +14,10 @@ In december we had a quite impressive amount of snow in the area. This is seen o
 
 {% include image.html file="Dezember_23_1.jpg" alt="Snow with halo around the sun seen from a car." caption="Quite huge amount of snow in the area." %}
 
-What I did in school is to craft decorations for a christmas tree. Those that I did were quiet fragile so everyone could take his one home, this one is from my daughter. She even had more pompoms on it, it was completely covered. The many kids, the repeated explaining what to do was a bit challenging I do admit.
+What I did in school is to craft decorations for a christmas tree. Those that I did were quite fragile so everyone could take his one home, this one is from my daughter. She even had more pompoms on it, it was completely covered. The many kids, the repeated explaining what to do was a bit challenging I do admit.
 
 {% include image.html file="Dezember_23_2.jpg" alt="Crafting result from the little one from school." caption="Decoration for a Christmas tree." %}
 
 I challenged myself much more than I did the years before. Most of the time it worked out nicely. I still have trouble acting according to my personal needs when I am less powerful, for example when I am sick and need some rest.
 
-I am right now working on a more concrete new challenge for 2024 and will post latest end of february a new goal and my progress with it.
+I am right now working on a more concrete new challenge for 2024 and will post latest beginning of march a new goal and my progress with it.
