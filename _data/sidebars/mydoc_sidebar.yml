@@ -67,5 +67,6 @@ entries:
       output: web, pdf
     - title: Getting started
       url: /getting-started.html
-      output: web, pdf  
+      output: web, pdf
+      
 # Copyright 2021 Google LLC
