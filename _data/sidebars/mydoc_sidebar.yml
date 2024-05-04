@@ -65,4 +65,7 @@ entries:
     - title: Welcoming changes in 2024
       url: /welcoming-changes-in-2024.html
       output: web, pdf
+    - title: Getting started
+      url: /getting-started.html
+      output: web, pdf  
 # Copyright 2021 Google LLC
