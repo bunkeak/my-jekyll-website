@@ -68,5 +68,14 @@ entries:
     - title: Getting started
       url: /getting-started.html
       output: web, pdf
-      
+    - title: Busy times
+      url: /busy-times.html
+      output: web, pdf
+    - title: Travelling is fun
+      url: /travelling-is-fun.html
+      output: web, pdf
+    - title: Wind of change
+      url: /wind-of-change.html
+      output: web, pdf  
+
 # Copyright 2021 Google LLC
