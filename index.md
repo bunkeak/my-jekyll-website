@@ -29,3 +29,7 @@ In 2023 I want to focus on staying calm and relaxed. I will approach that goal w
 ## Challenge for 2024
 
 I realized I did not only find out how to stay relaxed last year but more and more I figured out what I need in order to stay relaxed. So what might be missing still. To go in that direction, I will need to go into the unknown, try out things that I like and quit those that do not feel good. Easier said than done.
+
+## Challenge for 2025
+
+After a year of changes in 2024, I would like to solidify conditions that feel calm, support the family, work mates, and friends I care about and evolve in a better version of myself. This year is about keeping good habits, changing existing habits if needed and develop in a healthier direction. Wish me luck and resilience.

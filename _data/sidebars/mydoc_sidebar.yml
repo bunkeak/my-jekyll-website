@@ -76,6 +76,14 @@ entries:
       output: web, pdf
     - title: Wind of change
       url: /wind-of-change.html
-      output: web, pdf  
+      output: web, pdf
+
+  - title: 2025
+    output: web, pdf
+    folderitems:
+
+    - title: Highlights end of last Year
+      url: /highlights-end-of-last-year.html
+      output: web, pdf
 
 # Copyright 2021 Google LLC
