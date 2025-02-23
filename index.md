@@ -32,4 +32,4 @@ I realized I did not only find out how to stay relaxed last year but more and mo
 
 ## Challenge for 2025
 
-After a year of changes in 2024, I would like to solidify conditions that feel calm, support the family, work mates, and friends I care about and evolve in a better version of myself. This year is about keeping good habits, changing existing habits if needed and develop in a healthier direction. Wish me luck and resilience.
+Now that I know what I want and what I need, I advance in that direction. 2025 is the year of change, with conviction and no fear.

@@ -85,5 +85,8 @@ entries:
     - title: Highlights end of last Year
       url: /highlights-end-of-last-year.html
       output: web, pdf
+    - title: Ready, set and go
+      url: /ready-set-and-go.html
+      output: web, pdf    
 
 # Copyright 2021 Google LLC
