@@ -87,6 +87,9 @@ entries:
       output: web, pdf
     - title: Ready, set and go
       url: /ready-set-and-go.html
-      output: web, pdf    
+      output: web, pdf
+    - title: New horizons
+      url: /new-horizons.html
+      output: web, pdf  
 
 # Copyright 2021 Google LLC
