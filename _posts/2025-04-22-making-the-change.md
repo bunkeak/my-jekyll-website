@@ -1,7 +1,7 @@
 ---
-title:  ""
+title:  "Making the change"
 categories: jekyll update
-permalink: new-horizons.html
+permalink: making-the-change.html
 sidebar: mydoc_sidebar
 tags: [news]
 ---

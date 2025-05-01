@@ -88,8 +88,8 @@ entries:
     - title: Ready, set and go
       url: /ready-set-and-go.html
       output: web, pdf
-    - title: New horizons
-      url: /new-horizons.html
-      output: web, pdf  
+    - title: Making the change
+      url: /making-the-change.html
+      output: web, pdf
 
 # Copyright 2021 Google LLC
