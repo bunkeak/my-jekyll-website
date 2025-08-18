@@ -91,5 +91,8 @@ entries:
     - title: Making the change
       url: /making-the-change.html
       output: web, pdf
+    - title: Embracing the Moment
+      url: /embracing-the-moment.html
+      output: web, pdf
 
 # Copyright 2021 Google LLC
