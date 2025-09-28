@@ -97,5 +97,8 @@ entries:
     - title: Summer in Germany
       url: /summer-in-germany.html
       output: web, pdf
+    - title: Autumn vibes
+      url: /autumn-vibes.html
+      output: web, pdf
 
 # Copyright 2021 Google LLC
