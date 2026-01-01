@@ -100,5 +100,7 @@ entries:
     - title: Autumn vibes
       url: /autumn-vibes.html
       output: web, pdf
-
+    - title: End of the Year
+      url: /end-of-the-year.html
+      output: web, pdf
 # Copyright 2021 Google LLC
