@@ -103,4 +103,12 @@ entries:
     - title: End of the Year
       url: /end-of-the-year.html
       output: web, pdf
+
+  - title: 2026
+    output: web, pdf
+    folderitems:
+
+    - title: Making it a habit
+      url: /making-it-a-habit.html
+      output: web, pdf
 # Copyright 2021 Google LLC

@@ -33,3 +33,7 @@ I realized I did not only find out how to stay relaxed last year but more and mo
 ## Challenge for 2025
 
 Now that I know what I want and what I need, I advance in that direction. 2025 is the year of change, with conviction and no fear.
+
+## Challenge for 2026
+
+Inspired from Gabor Maté on a free webinar recently, I understood changes should become a habit, they can be small, this year however, two out of three persons in the houshold will undergo quite majour changes. So let's make it a habit. Even small changes are giving another perspective.
