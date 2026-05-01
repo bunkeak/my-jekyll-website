@@ -36,4 +36,4 @@ Now that I know what I want and what I need, I advance in that direction. 2025 i
 
 ## Challenge for 2026
 
-Inspired from Gabor Maté on a free webinar recently, I understood changes should become a habit, they can be small, this year however, two out of three persons in the houshold will undergo quite majour changes. So let's make it a habit. Even small changes are giving another perspective.
+Inspired from Gabor Maté on a free webinar recently, I understood changes should become a habit, they can be small, this year however, two out of three persons in the household will undergo quite majour changes. So let's make it a habit. Even small changes are giving another perspective.
