@@ -114,4 +114,7 @@ entries:
     - title: Getting in the flow
       url: /getting-in-the-flow.html
       output: web, pdf
+    - title: Riding the wave
+      url: /riding-the-wave.html
+      output: web, pdf 
 # Copyright 2021 Google LLC
