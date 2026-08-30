@@ -116,5 +116,9 @@ entries:
       output: web, pdf
     - title: Riding the wave
       url: /riding-the-wave.html
-      output: web, pdf 
+      output: web, pdf
+    - title: Have a little Patience
+      url: /have-a-little-patience.html
+      output: web, pdf
+      
 # Copyright 2021 Google LLC
